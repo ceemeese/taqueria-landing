@@ -11,7 +11,7 @@ Esta es una landing page para una taquería, desarrollada solo con **HTML y CSS 
 
 ## 📸 Captura de pantalla
 
-**
+*![Screenshot](images/screenshotWeb.png)*
 
 ## 🚀 Tecnologías usadas
 
