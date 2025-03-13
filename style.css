@@ -313,7 +313,7 @@ header .nav-item img {
 }
 
 #about-us .img-about {
-    background-image: url(/images/social/about.jpg);
+    background-image: url(images/social/about.jpg);
     background-size: cover;
     background-position: center center;
     height: 600px;
@@ -400,7 +400,7 @@ header .nav-item img {
         rgba(0,0,0,0.6),
         rgba(0,0,0,0.6)
     )
-    ,url(/images/productos/nachopeque.jpg);
+    ,url(images/productos/nachopeque.jpg);
 }
 
 .card:nth-child(2) {
@@ -409,7 +409,7 @@ header .nav-item img {
         rgba(0,0,0,0.6),
         rgba(0,0,0,0.6)
     )
-    ,url(/images/productos/tacospeque.jpg);
+    ,url(images/productos/tacospeque.jpg);
 }
 
 .card:last-child {
@@ -418,7 +418,7 @@ header .nav-item img {
         rgba(0,0,0,0.6),
         rgba(0,0,0,0.6)
     )
-    ,url(/images/productos/postrepeque.jpg);
+    ,url(images/productos/postrepeque.jpg);
 }
 
 /* Responsive Productos*/
